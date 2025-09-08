@@ -7,8 +7,8 @@ import logging
 from datetime import datetime
 
 -------- CONFIGURATION --------
-API_KEY = 'your_bybit_api_key'
-API_SECRET = 'your_bybit_api_secret'
+API_KEY = 'AjWCWsPiCP7L6CMVnQ'
+API_SECRET = 'oDqCyfMMiv6iVVRWKapZ5hO1Ng5kpxnD2o4Z'
 
 SYMBOLS = ['SOL/USDT', 'SAPIEN/USDT', 'ALU/USDT', 'VRA/USDT', 'WLFI/USDT']
 TIMEFRAME = '5m'
@@ -188,4 +188,5 @@ logging.info("Starting advanced Bybit futures trading bot")
             time.sleep(60)
 
 if _name_ == "_main_":main()
+
 ```
