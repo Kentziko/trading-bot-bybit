@@ -1,5 +1,3 @@
-
-```python
 import ccxt
 import time
 import pandas as pd
@@ -242,3 +240,4 @@ def main():
             time.sleep(POLL_SECONDS)
 if __name__ == "__main__":
     main()
+
