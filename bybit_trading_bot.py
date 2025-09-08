@@ -189,5 +189,4 @@ logging.info("Starting advanced Bybit futures trading bot")
 
 if _name_ == "_main_":main()
 
-```
 
