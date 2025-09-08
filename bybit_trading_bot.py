@@ -1,4 +1,4 @@
-```python
+python
 import ccxt
 import time
 import pandas as pd
@@ -190,3 +190,4 @@ logging.info("Starting advanced Bybit futures trading bot")
 if _name_ == "_main_":main()
 
 ```
+
